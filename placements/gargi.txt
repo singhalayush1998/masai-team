@@ -1,0 +1,9 @@
+
+
+Given an array of numbers (all unique). Find the second
+ maximum number
+NOTE: You can't use any inbuilt functions like SORT
+Sample Input - [5, 3, 2, 4, 9]
+Sample Output - 5
+Submission Image/Video Instructions
+Screenshot of the output for the array [5, 4, 3, 2, 1]
